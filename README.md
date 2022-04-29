@@ -9,7 +9,7 @@ To install terraform on a windows pc, please visit the following page: https://d
 
 Before you can run the microservice, you need to have the eks cluster running on aws, the following guide will show you how to get that working.<br>
 
-**How to run the Microservice application.**
+## How to run the Microservice application.
 
 **Step 1:** Create a folder on your pc/mac desktop and name the folder projects.
 
