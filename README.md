@@ -7,6 +7,12 @@ Before proceeding with the steps below, please download terraform on your pc, if
 
 To install terraform on a windows pc, please visit the following page: https://docs.microsoft.com/en-us/azure/developer/terraform/get-started-windows-bash?tabs=bash#4-install-terraform-for-windows<br>
 
+Please install AWS CLI by visiting the following page:
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+
+Configure the installed aws cli with the following guide:
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
+
 Before you can run the microservice, you need to have the eks cluster running on aws, the following guide will show you how to get that working.<br>
 
 ## How to run the Microservice application.
